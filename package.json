@@ -1,7 +1,7 @@
 {
   "name": "relax-steps-allure",
-  "version": "0.0.9",
-  "description": "Utils for test stepping, logging and reporting. See more at https://github.com/qx57/relax-step-utils-allure",
+  "version": "0.1.0",
+  "description": "Utils for test stepping, logging and reporting. See more at https://github.com/qx57/relax-steps-allure",
   "main": "index.js",
   "bin": {
     "setinit": "./install.js"
@@ -14,7 +14,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/qx57/relax-step-utils-allure.git"
+    "url": "git+https://github.com/qx57/relax-steps-allure.git"
   },
   "keywords": [
     "testing",
@@ -27,9 +27,9 @@
   "author": "qx57rush@gmail.com",
   "license": "GPL-2.0-only",
   "bugs": {
-    "url": "https://github.com/qx57/relax-step-utils-allure/issues"
+    "url": "https://github.com/qx57/relax-steps-allure/issues"
   },
-  "homepage": "https://github.com/qx57/relax-step-utils-allure#readme",
+  "homepage": "https://github.com/qx57/relax-steps-allure#readme",
   "dependencies": {
     "allure-mocha": "^2.0.0-beta.16",
     "mocha-multi-reporters": "^1.5.1"
