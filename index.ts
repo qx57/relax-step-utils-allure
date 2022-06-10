@@ -1,5 +1,4 @@
 import { allure } from 'allure-mocha/runtime';
-import { TypeInfo } from 'ts-node';
 
 /** For empty tests without reporting */
 export const nit = (...args: any[]): void => {}
@@ -63,4 +62,4 @@ export const stepIgnoreErrorByMessage = async function (
  *   modules export area   *
  * ----------------------- *
  */
-export const AllureApiAttaches = require('./allure.annotations').AllureApiAttaches;
+export const AllureApiAttaches = require('./allure.annotations.js').AllureApiAttaches;

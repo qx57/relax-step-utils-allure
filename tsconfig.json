@@ -69,6 +69,6 @@
     },
     "include": [
         "*.ts"
-, "install.js"    ]
+    ]
   }
   

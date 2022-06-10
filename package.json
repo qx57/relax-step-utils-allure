@@ -1,6 +1,6 @@
 {
   "name": "relax-steps-allure",
-  "version": "0.0.1",
+  "version": "0.0.9",
   "description": "Utils for test stepping, logging and reporting. See more at https://github.com/qx57/relax-step-utils-allure",
   "main": "index.js",
   "bin": {
